@@ -9,7 +9,6 @@
 ### 主要系列文章
 1. Java SE
 - [使用最原始的命令行格式编译和执行java 程序](https://github.com/huangtiancai/LearningNotes/issues/1)
-
-2.JavaWeb
+2. JavaWeb
 - [Tomcat服务器](https://github.com/huangtiancai/LearningNotes/issues/2)
 
