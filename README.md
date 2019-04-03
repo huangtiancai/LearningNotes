@@ -1,4 +1,9 @@
-# Learning-Notes
-## 功能：
+### 简介
+使用Github的 Issues + Projects，写技术博客！
 
-Learning-Notes仓库仅作为个人笔记！
+### 博客分类
+- java Web
+- 数据库
+- 开发工具
+- Linux
+
