@@ -14,11 +14,6 @@
 - [使用服务器搭建Typecho博客](https://github.com/huangtiancai/LearningNotes/issues/6)
 - [使用hexo-github搭建免费个人博客](https://github.com/huangtiancai/LearningNotes/issues/7)
 
-## Java SE
-- [使用最原始的命令行格式编译和执行java 程序](https://github.com/huangtiancai/LearningNotes/issues/1)
-## JavaWeb
-- [Tomcat服务器](https://github.com/huangtiancai/LearningNotes/issues/2)
-
 ## 前端技术
 ### JavaScript
 #### JavaScript入门系列
@@ -39,5 +34,12 @@
 - JavaScript深入之创建对象的多种方式以及优缺点
 - JavaScript深入之继承的多种方式以及优缺点
 - JavaScript深入系列15篇正式完结！
+
+## Java SE
+- [使用最原始的命令行格式编译和执行java 程序](https://github.com/huangtiancai/LearningNotes/issues/1)
+## JavaWeb
+- [Tomcat服务器](https://github.com/huangtiancai/LearningNotes/issues/2)
+
+
 
 
