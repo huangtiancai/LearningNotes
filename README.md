@@ -1,5 +1,5 @@
 ### 简介
-- 使用Github的 Issues + Projects 写技术笔记，同时笔记也会放在仓库[LearningNotes](https://github.com/huangtiancai/LearningNotes)articles文件下,方便从本地同步与clone
+- 使用Github的 Issues + Projects 写技术笔记，同时笔记也会放在仓库 [LearningNotes] (https://github.com/huangtiancai/LearningNotes)articles文件下,方便从本地同步与clone
 - 日常学习笔记的代码demo和项目代码单独放在仓库中
 
 ### 笔记分类
