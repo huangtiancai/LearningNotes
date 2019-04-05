@@ -8,6 +8,13 @@
 - 开发工具
 - Linux
 ### 主要系列文章
+1. 博客
+- Markdown
+- 使用服务器搭建Typecho博客
+- 使用hexo-github搭建免费个人博客
+- Typecho利用HTML5代码实现本地视频播放
+- Typecho Plyr HTML5 自适应本地mp3/mp4放插件.md
+
 1. Java SE
 - [使用最原始的命令行格式编译和执行java 程序](https://github.com/huangtiancai/LearningNotes/issues/1)
 2. JavaWeb
