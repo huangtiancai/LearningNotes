@@ -9,9 +9,9 @@
 - Linux
 ### 主要系列文章
 #### 博客
-- Markdown
-- 使用服务器搭建Typecho博客
-- 使用hexo-github搭建免费个人博客
+- [Markdown](https://github.com/huangtiancai/LearningNotes/issues/5)
+- [使用服务器搭建Typecho博客](https://github.com/huangtiancai/LearningNotes/issues/6)
+- [使用hexo-github搭建免费个人博客](https://github.com/huangtiancai/LearningNotes/issues/7)
 
 #### Java SE
 - [使用最原始的命令行格式编译和执行java 程序](https://github.com/huangtiancai/LearningNotes/issues/1)
