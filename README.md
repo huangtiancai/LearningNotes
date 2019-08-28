@@ -17,7 +17,6 @@
 ## 前端技术
 ### JavaScript
 #### JavaScript入门系列
-1. 
 #### JavaScrpt深入系列
 ## Java SE
 - [使用最原始的命令行格式编译和执行java 程序](https://github.com/huangtiancai/LearningNotes/issues/1)
