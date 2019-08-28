@@ -15,9 +15,9 @@
 - [使用hexo-github搭建免费个人博客](https://github.com/huangtiancai/LearningNotes/issues/7)
 
 ## 前端技术
-### JavaScript
-#### JavaScript入门系列
-#### JavaScrpt深入系列
+#### [前端整合](https://github.com/huangtiancai/web-front-end)
+#### [JavaScript入门系列](https://github.com/huangtiancai/JavaScript-basic-series)
+#### [JavaScrpt深入系列](https://github.com/huangtiancai/JavaScript-in-depth-series)
 ## Java SE
 - [使用最原始的命令行格式编译和执行java 程序](https://github.com/huangtiancai/LearningNotes/issues/1)
 ## JavaWeb
